@@ -11,9 +11,14 @@ Here are five questions and step-by-step instructions to the answers based on th
 Question 1: What is the rate of suicide for men compared to women in CA from 2000-17?
 <br>
 Step-by-step answer:
-* Insert Pivot table (while selection A1 through I155) and title it Question 1. men v women rates 2000-17
+1. Insert Pivot table (while selection A1 through I155) and title it Question 1. men v women rates 2000-17
 * Add rate as value
 * Add Strata Name as rows
+<br>
+
+!['Q1 pivot table'](/q1-pivot-table.png)
+<br>
+Answer: The suicide rate among men from 2000 to 2017 in California is 275.14 per 100,000, which is more than three times the rate among women of 80.826 per 100,000 over that same period of time. 
 
 Question 2: How do suicide rates compare among different races in CA?
 <br>
