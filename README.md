@@ -30,7 +30,10 @@ Step-by-step answer:
 * Go to 'race' tab and insert pivot table of all data from 'race' sheet
 * Select values as rate
 * Select rows as strata name
- 
+
+!['Q2 pivot table'](/q2-pivot-table.png)
+
+Answer: The suicde rate among white people is much higher than other races per 100,000 at 5342.74. The next closest rates are 760.463 for the hispanic population and 579.219 for the Asian population per 100,000. But this does not take into account that the white population is much higher than other races. For example the white population is more than five times the asian population in 2020, according to the US Census Bureau. 
 
 Question 3: Have suicides increased from 2000 to 2017? By how much?
 <br>
@@ -49,7 +52,7 @@ Data Viz:
 
 * Bolded top row and froze it
 * formatted numbers for denominators in column G
-* Move column d (strata) over two columns
+* Move column d (strata) over two columnsq2-pivot-table
 * Highlight columns c (year) d (strata name) e (numerator) down to row 55 and copy and paste into datawrapper to make chart showing growth in suicides among men
 * Move column f (strata) back so it's in column d again
 * Seperate male and female suicides into seperate columns and put on new sheet data viz data 2
