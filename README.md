@@ -1,8 +1,13 @@
-# fInal_project
-Final Project for Data Journalism (J296) at UC Berkeley
+# Final Project for Data Journalism (J296) at UC Berkeley
+By Albert Gregory
 <br>
 <br>
-Clean and Analyze Data:
+Data Analysis:
+* Download the 'Suicide, Deaths per 100,000 Population (LGHC Indicator) data sheets as .csv files, upload it t Google Drive, and open with Google Sheets. 
+<br>
+Here are five questions and step-by-step instructions to the answers based on the data sets:
+<br>
+
 * Bolded top row and froze it
 * formatted numbers for denominators in column G
 * Move column d (strata) over two columns
