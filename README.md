@@ -26,7 +26,11 @@ Question 2: How do suicide rates compare among different races in CA?
 Step-by-step answer:
 1. Copy column headers, create a new sheet title 'race' and paste column headers
 * select A56:I675 to selcet all data with race listed as strata, copy and paste to sheet titled 'race'
-* 
+!['Q2 screenshot'](/step-1_q2.png)
+* Go to 'race' tab and insert pivot table of all data from 'race' sheet
+* Select values as rate
+* Select rows as strata name
+ 
 
 Question 3: Have suicides increased from 2000 to 2017? By how much?
 <br>
