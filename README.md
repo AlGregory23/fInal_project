@@ -8,6 +8,29 @@ Data Analysis:
 Here are five questions and step-by-step instructions to the answers based on the data sets:
 <br>
 
+Question 1: What is the rate of suicide for men compared to women in CA from 2000-17?
+<br>
+Step-by-step answer:
+
+Question 2: How do suicide rates compare among different races in CA?
+<br>
+Step-by-step answer:
+
+Question 3: Have suicides increased from 2000 to 2017? By how much?
+<br>
+Step-by-step answer:
+
+Question 4: What county has the hioghest rate of suicides in CA?
+<br>
+Step-by-step answer:
+
+Question 5: What county has the lowest rate of suicides in CA?
+<br> 
+Step-by-step answer:
+
+
+Data Viz:
+
 * Bolded top row and froze it
 * formatted numbers for denominators in column G
 * Move column d (strata) over two columns
