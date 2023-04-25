@@ -38,6 +38,10 @@ Answer: The suicde rate among white people is much higher than other races per 1
 Question 3: Have suicides increased from 2000 to 2017? By how much?
 <br>
 Step-by-step answer:
+1. Insert Pivot table (while selection A1 through I55) and title it Question 3. rate increase over time
+* add rate as value 
+* add strata name and year to rows
+
 
 Question 4: What county has the hioghest rate of suicides in CA?
 <br>
