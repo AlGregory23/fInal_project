@@ -42,7 +42,9 @@ Step-by-step answer:
 * add rate as value 
 * add strata name and year to rows
 
+!['Q3 pivot table'](/q3-pivot-table.png)
 
+Answer: The rate of suicides among both men and women has seen an increase of 1.5 per 100,000 from 2000 to 2017. While the rate has steadily increased there have been slight dips, in 2004, 2007, 2012, 2015, and 2017, but nothing signifiacant. 
 Question 4: What county has the hioghest rate of suicides in CA?
 <br>
 Step-by-step answer:
