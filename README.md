@@ -52,9 +52,13 @@ Step-by-step answer:
 
 1. Copy column headers, create a new sheet title 'counties' and paste column headers
 * Selected A56 through I1405 to just highlight the rows with counties listed in geography column and paste it to sheet titled 'counties'
+!['Q4 spreadsheet'](/counties-spreadsheet)
 
-
-* Insert Pivot table and title it counties 
+* Insert Pivot table and title it 'rate in counties'
+* Insert rate as vaues and geography as rows
+* copy the data, without the headers, and paste into column j and k of 'counties' spreadsheet
+* In row k above the rates select sort z to a 
+ 
 
 Question 5: What county has the lowest rate of suicides in CA?
 <br> 
