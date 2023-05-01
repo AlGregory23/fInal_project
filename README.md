@@ -59,10 +59,16 @@ Step-by-step answer:
 * copy the data, without the headers, and paste into column j and k of 'counties' spreadsheet
 * In row k above the rates select sort z to a 
  
+!['Q4 pivot table'](/q4-pivot-table)
+
+Answer: The California counties with the highest suicide rates from 2000-17 per 100,000 are: Humboldt (554.248), Shasta (550.98), Sacramento (483.08), Lake (471.64) and San Diego (465.277). 
 
 Question 5: What county has the lowest rate of suicides in CA?
 <br> 
 Step-by-step answer:
+1. Copy the first five steps for Question 4. 
+* For the final step instead sort column k in the 'counties' spreadsheet a to z. 
+
 
 
 Data Viz:
