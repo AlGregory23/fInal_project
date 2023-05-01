@@ -118,6 +118,10 @@ Caine is concerned that not enough people are doing something to end the high su
 "People have been drawn to the schools and the attempts on kids or young people, and I do not want to say devalued people who are adults, but undervalued," Caine said. "If you want to make the national suicide rate go down, you really need to struggle with that challenge of how do I deal with the big populations that account for most of it?"
 
 
+Sources: 
+* Dr. Eric Caine - 585-435-2926 - Founder the University of Rochester Center for the Study and Prevention of Suicide in 1998, where he served as its Co-Director up until 2021. His research focused on males' high suicide rates compared to females. 
+* Molly Scott - mollyhscott@yahoo.com - works at Nations Finest and deals with veterans going through mental health crisis 
+
 Data Viz 1:
 
 * Bolded top row and froze it
