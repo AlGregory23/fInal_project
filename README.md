@@ -69,14 +69,20 @@ Step-by-step answer:
 1. Copy the first five steps for Question 4. 
 * For the final step instead sort column k in the 'counties' spreadsheet a to z. 
 
+!['Q4 pivot table'](/q5-pivot-table)
 
+Answer: The California counties with the lowest suicide rates from 2000-17 per 100,000 are: Colusa (24.28), San Benito (27.795), Glenn (142.61), Kings (148.781) and Del Norte (177.82) 
 
-Data Viz:
+Data Viz 1:
 
 * Bolded top row and froze it
 * formatted numbers for denominators in column G
-* Move column d (strata) over two columnsq2-pivot-table
+* Move column d (strata) over two columns 
 * Highlight columns c (year) d (strata name) e (numerator) down to row 55 and copy and paste into datawrapper to make chart showing growth in suicides among men
+
+
+
+Data Viz 2:
 * Move column f (strata) back so it's in column d again
 * Seperate male and female suicides into seperate columns and put on new sheet data viz data 2
 * Copy data from data viz data 2 and paste into datawrapper to make line chart comparing male and female suicides
