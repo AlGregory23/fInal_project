@@ -11,7 +11,7 @@ Here are five questions and step-by-step instructions to the answers based on th
 Question 1: What is the rate of suicide for men compared to women in CA from 2000-17?
 <br>
 Step-by-step answer:
-1. Insert Pivot table (while selection A1 through I55) and title it Question 1. men v women rates 2000-17
+1. Insert Pivot table (while selection A1 through I55) and title it Question 1. males v females rates 2000-17
 ![step-1_q1](/step-1_q1.png)
 * Add rate as value
 * Add Strata Name as rows
@@ -19,7 +19,7 @@ Step-by-step answer:
 
 !['Q1 pivot table'](/q1-pivot-table.png)
 <br>
-Answer: The suicide rate among men from 2000 to 2017 in California is 275.14 per 100,000, which is more than three times the rate among women of 80.826 per 100,000 over that same period of time. 
+Answer: The suicide rate among males from 2000 to 2017 in California is 275.14 per 100,000, which is more than three times the rate among females of 80.826 per 100,000 over that same period of time. 
 
 Question 2: How do suicide rates compare among different races in CA?
 <br>
@@ -33,12 +33,12 @@ Step-by-step answer:
 
 !['Q2 pivot table'](/q2-pivot-table.png)
 
-Answer: The suicde rate among white people is much higher than other races per 100,000 at 5342.74. The next closest rates are 760.463 for the hispanic population and 579.219 for the Asian population per 100,000. But this does not take into account that the white population is much higher than other races. For example the white population was more than five times the asian population in 2020, according to the [US Census Bureau](https://www.census.gov/quickfacts/CA). 
+Answer: The suicide rate among white people is much higher than other races per 100,000 at 5342.74 from 2000 to 2017. The next closest rates are 760.463 for the hispanic population and 579.219 for the Asian population per 100,000. 
 
 Question 3: Have suicides increased from 2000 to 2017? By how much?
 <br>
 Step-by-step answer:
-1. Insert Pivot table (while selection A1 through I55) and title it Question 3. rate increase over time
+1. Insert Pivot table (while selecting A1 through I55) and title it Question 3. rate increase over time
 * add rate as value 
 * add strata name and year to rows
 
@@ -50,12 +50,12 @@ Question 4: What county has the highest rate of suicides in CA?
 <br>
 Step-by-step answer:
 
-1. Copy column headers, create a new sheet title 'counties' and paste column headers
+1. Copy column headers, create a new sheet titled 'counties' and paste column headers
 * Selected A56 through I1405 to just highlight the rows with counties listed in geography column and paste it to sheet titled 'counties'
 !['Q4 spreadsheet'](/counties-spreadsheet)
 
 * Insert Pivot table and title it 'rate in counties'
-* Insert rate as vaues and geography as rows
+* Insert rate as values and geography as rows
 * copy the data, without the headers, and paste into column j and k of 'counties' spreadsheet
 * In row k above the rates select sort z to a 
  
