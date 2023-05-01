@@ -3,7 +3,7 @@ By Albert Gregory
 <br>
 <br>
 Data Analysis:
-* Download the 'Suicide, Deaths per 100,000 Population (LGHC Indicator) data sheets as .csv files, upload it t Google Drive, and open with Google Sheets. 
+* Download the 'Suicide, Deaths per 100,000 Population (LGHC Indicator)' [data sheets](https://data.ca.gov/dataset/suicide-deaths-per-100000-population-lghc-indicator) as .csv files, upload it to Google Drive, and open with Google Sheets. 
 <br>
 Here are five questions and step-by-step instructions to the answers based on the data sets:
 <br>
@@ -25,7 +25,7 @@ Question 2: How do suicide rates compare among different races in CA?
 <br>
 Step-by-step answer:
 1. Copy column headers, create a new sheet title 'race' and paste column headers
-* select A56:I675 to selcet all data with race listed as strata, copy and paste to sheet titled 'race'
+* select A56:I675 to select all data with race listed as strata, copy and paste to sheet titled 'race'
 !['Q2 screenshot'](/step-1_q2.png)
 * Go to 'race' tab and insert pivot table of all data from 'race' sheet
 * Select values as rate
@@ -33,7 +33,7 @@ Step-by-step answer:
 
 !['Q2 pivot table'](/q2-pivot-table.png)
 
-Answer: The suicde rate among white people is much higher than other races per 100,000 at 5342.74. The next closest rates are 760.463 for the hispanic population and 579.219 for the Asian population per 100,000. But this does not take into account that the white population is much higher than other races. For example the white population is more than five times the asian population in 2020, according to the US Census Bureau. 
+Answer: The suicde rate among white people is much higher than other races per 100,000 at 5342.74. The next closest rates are 760.463 for the hispanic population and 579.219 for the Asian population per 100,000. But this does not take into account that the white population is much higher than other races. For example the white population was more than five times the asian population in 2020, according to the [US Census Bureau](https://www.census.gov/quickfacts/CA). 
 
 Question 3: Have suicides increased from 2000 to 2017? By how much?
 <br>
@@ -44,10 +44,17 @@ Step-by-step answer:
 
 !['Q3 pivot table'](/q3-pivot-table.png)
 
-Answer: The rate of suicides among both men and women has seen an increase of 1.5 per 100,000 from 2000 to 2017. While the rate has steadily increased there have been slight dips, in 2004, 2007, 2012, 2015, and 2017, but nothing signifiacant. 
-Question 4: What county has the hioghest rate of suicides in CA?
+Answer: The rate of suicides among both men and women has seen an increase of 1.5 per 100,000 from 2000 to 2017. While the rate has steadily increased there have been slight dips, in 2004, 2007, 2012, 2015, and 2017, but nothing significant. 
+
+Question 4: What county has the highest rate of suicides in CA?
 <br>
 Step-by-step answer:
+
+1. Copy column headers, create a new sheet title 'counties' and paste column headers
+* Selected A56 through I1405 to just highlight the rows with counties listed in geography column and paste it to sheet titled 'counties'
+
+
+* Insert Pivot table and title it counties 
 
 Question 5: What county has the lowest rate of suicides in CA?
 <br> 
@@ -63,3 +70,6 @@ Data Viz:
 * Move column f (strata) back so it's in column d again
 * Seperate male and female suicides into seperate columns and put on new sheet data viz data 2
 * Copy data from data viz data 2 and paste into datawrapper to make line chart comparing male and female suicides
+
+
+[Dataset analyzed](https://docs.google.com/spreadsheets/d/1-W3WrXAEqoO6KBDbLzdc2-r_3dP60MH7vkxq_1YCff8/edit?usp=sharing)
