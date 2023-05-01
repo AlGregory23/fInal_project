@@ -73,6 +73,10 @@ Step-by-step answer:
 
 Answer: The California counties with the lowest suicide rates from 2000-17 per 100,000 are: Colusa (24.28), San Benito (27.795), Glenn (142.61), Kings (148.781) and Del Norte (177.82) 
 
+Story:
+
+
+
 Data Viz 1:
 
 * Bolded top row and froze it
@@ -82,12 +86,16 @@ Data Viz 1:
 
 !['DatavizMale suicide Trend'](/male-suicides-dataviz.png)
 
+[Dataviz 1 live link](https://datawrapper.dwcdn.net/aJdOX/2/)
+
 Data Viz 2:
 * Move column f (strata) back so it's in column d again
 * Seperate male and female suicides into seperate columns and put on new sheet data viz data 2
 * Copy data from data viz data 2 and paste into datawrapper to make line chart comparing male and female suicides
 
-!['DatavizMale and Female suicide Trend'](/)
+!['DatavizMale and Female suicide Trend'](/2-male-female-suicides-dataviz.png)
+
+[Dataviz 2 live link](https://datawrapper.dwcdn.net/MWs9S/3/)
 
 
 [Dataset analyzed](https://docs.google.com/spreadsheets/d/1-W3WrXAEqoO6KBDbLzdc2-r_3dP60MH7vkxq_1YCff8/edit?usp=sharing)
