@@ -120,7 +120,7 @@ Caine is concerned that not enough people are doing something to end the high su
 
 Sources: 
 * Dr. Eric Caine - 585-435-2926 - Founder the University of Rochester Center for the Study and Prevention of Suicide in 1998, where he served as its Co-Director up until 2021. His research focused on males' high suicide rates compared to females. 
-* Molly Scott - mollyhscott@yahoo.com - works at Nations Finest and deals with veterans going through mental health crisis 
+* Molly Scott - mollyhscott@yahoo.com - works at Nation's Finest and deals with veterans going through mental health crisis 
 
 Data Viz 1:
 
