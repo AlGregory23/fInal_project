@@ -80,12 +80,14 @@ Data Viz 1:
 * Move column d (strata) over two columns 
 * Highlight columns c (year) d (strata name) e (numerator) down to row 55 and copy and paste into datawrapper to make chart showing growth in suicides among men
 
-
+!['DatavizMale suicide Trend'](/male-suicides-dataviz.png)
 
 Data Viz 2:
 * Move column f (strata) back so it's in column d again
 * Seperate male and female suicides into seperate columns and put on new sheet data viz data 2
 * Copy data from data viz data 2 and paste into datawrapper to make line chart comparing male and female suicides
+
+!['DatavizMale and Female suicide Trend'](/)
 
 
 [Dataset analyzed](https://docs.google.com/spreadsheets/d/1-W3WrXAEqoO6KBDbLzdc2-r_3dP60MH7vkxq_1YCff8/edit?usp=sharing)
