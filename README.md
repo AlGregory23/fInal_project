@@ -8,10 +8,10 @@ Data Analysis:
 Here are five questions and step-by-step instructions to the answers based on the data sets:
 <br>
 
-Question 1: What is the rate of suicide for men compared to women in CA from 2000-17?
+Question 1: What is the rate of suicide for males compared to females in CA from 2000-17?
 <br>
 Step-by-step answer:
-1. Insert Pivot table (while selection A1 through I55) and title it Question 1. males v females rates 2000-17
+1. Insert Pivot table (while selecting A1 through I55) and title it Question 1. males v females rates 2000-17
 ![step-1_q1](/step-1_q1.png)
 * Add rate as value
 * Add Strata Name as rows
@@ -24,7 +24,7 @@ Answer: The suicide rate among males from 2000 to 2017 in California is 275.14 p
 Question 2: How do suicide rates compare among different races in CA?
 <br>
 Step-by-step answer:
-1. Copy column headers, create a new sheet title 'race' and paste column headers
+1. Copy column headers, create a new sheet titled 'race' and paste column headers
 * select A56:I675 to select all data with race listed as strata, copy and paste to sheet titled 'race'
 !['Q2 screenshot'](/step-1_q2.png)
 * Go to 'race' tab and insert pivot table of all data from 'race' sheet
